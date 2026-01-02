@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/rgenomicsetl/rgenomicsetl.r-universe.dev
 	branch = HEAD
+[submodule "RBCFTools"]
+	path = RBCFTools
+	url = https://github.com/RGenomicsETL/RBCFTools
