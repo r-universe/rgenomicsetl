@@ -5,3 +5,6 @@
 [submodule "RBCFTools"]
 	path = RBCFTools
 	url = https://github.com/RGenomicsETL/RBCFTools
+[submodule "Rduckhts"]
+	path = Rduckhts
+	url = https://github.com/RGenomicsETL/duckhts/r/Rduckhts
