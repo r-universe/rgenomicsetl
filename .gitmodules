@@ -5,7 +5,99 @@
 [submodule "RBCFTools"]
 	path = RBCFTools
 	url = https://github.com/RGenomicsETL/RBCFTools
+[submodule "RClinVarbitration"]
+	path = RClinVarbitration
+	url = https://github.com/RGenomicsETL/RClinVarbitration
+[submodule "Rbebelm"]
+	path = Rbebelm
+	url = https://github.com/RGenomicsETL/Rbebelm
 [submodule "Rduckhts"]
 	path = Rduckhts
 	url = https://github.com/RGenomicsETL/duckhts
 	subdir = r/Rduckhts
+[submodule "Rducks"]
+	path = Rducks
+	url = https://github.com/RGenomicsETL/Rducks
+[submodule "Rfmalloc"]
+	path = Rfmalloc
+	url = https://github.com/RGenomicsETL/Rfmalloc
+	subdir = packages/Rfmalloc
+[submodule "Rggml"]
+	path = Rggml
+	url = https://github.com/RGenomicsETL/Rfmalloc
+	subdir = packages/Rggml
+[submodule "Rgguf"]
+	path = Rgguf
+	url = https://github.com/RGenomicsETL/Rfmalloc
+	subdir = packages/Rgguf
+[submodule "Rllm"]
+	path = Rllm
+	url = https://github.com/RGenomicsETL/Rfmalloc
+	subdir = packages/Rllm
+[submodule "Rminibwa"]
+	path = Rminibwa
+	url = https://github.com/RGenomicsETL/Rminibwa
+[submodule "Ropendal"]
+	path = Ropendal
+	url = https://github.com/RGenomicsETL/Ropendal
+[submodule "Rpgen"]
+	path = Rpgen
+	url = https://github.com/RGenomicsETL/Rfmalloc
+	subdir = packages/Rpgen
+[submodule "Rzarrs"]
+	path = Rzarrs
+	url = https://github.com/RGenomicsETL/Rzarrs
+[submodule "ducksemantics"]
+	path = ducksemantics
+	url = https://github.com/RGenomicsETL/ducksemantics
+[submodule "nanonext"]
+	path = nanonext
+	url = https://github.com/RGenomicsETL/nanonext
+[submodule "rho.agent"]
+	path = rho.agent
+	url = https://github.com/RGenomicsETL/Rho
+	subdir = packages/rho.agent
+[submodule "rho.ai"]
+	path = rho.ai
+	url = https://github.com/RGenomicsETL/Rho
+	subdir = packages/rho.ai
+[submodule "rho.async"]
+	path = rho.async
+	url = https://github.com/RGenomicsETL/Rho
+	subdir = packages/rho.async
+[submodule "rho.bio"]
+	path = rho.bio
+	url = https://github.com/RGenomicsETL/Rho
+	subdir = packages/rho.bio
+[submodule "rho.bio.agent"]
+	path = rho.bio.agent
+	url = https://github.com/RGenomicsETL/Rho
+	subdir = packages/rho.bio.agent
+[submodule "rho.coding"]
+	path = rho.coding
+	url = https://github.com/RGenomicsETL/Rho
+	subdir = packages/rho.coding
+[submodule "rho.compute"]
+	path = rho.compute
+	url = https://github.com/RGenomicsETL/Rho
+	subdir = packages/rho.compute
+[submodule "rho.duckdb"]
+	path = rho.duckdb
+	url = https://github.com/RGenomicsETL/Rho
+	subdir = packages/rho.duckdb
+[submodule "rho.ext"]
+	path = rho.ext
+	url = https://github.com/RGenomicsETL/Rho
+	subdir = packages/rho.ext
+[submodule "rho.graphics"]
+	path = rho.graphics
+	url = https://github.com/RGenomicsETL/Rho
+	subdir = packages/rho.graphics
+[submodule "rho.http"]
+	path = rho.http
+	url = https://github.com/RGenomicsETL/Rho
+	subdir = packages/rho.http
+[submodule "rho.testkit"]
+	path = rho.testkit
+	url = https://github.com/RGenomicsETL/Rho
+	subdir = packages/rho.testkit
