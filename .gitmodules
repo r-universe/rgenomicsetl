@@ -47,6 +47,9 @@
 [submodule "Rzarrs"]
 	path = Rzarrs
 	url = https://github.com/RGenomicsETL/Rzarrs
+[submodule "XCNV"]
+	path = XCNV
+	url = https://github.com/RGenomicsETL/XCNV
 [submodule "ducksemantics"]
 	path = ducksemantics
 	url = https://github.com/RGenomicsETL/ducksemantics
