@@ -8,6 +8,10 @@
 [submodule "RClinVarbitration"]
 	path = RClinVarbitration
 	url = https://github.com/RGenomicsETL/RClinVarbitration
+[submodule "RGlimpse2"]
+	path = RGlimpse2
+	url = https://github.com/RGenomicsETL/RGlimpse2
+	subdir = RGlimpse2
 [submodule "Rbebelm"]
 	path = Rbebelm
 	url = https://github.com/RGenomicsETL/Rbebelm
