@@ -48,6 +48,9 @@
 	path = Rpgen
 	url = https://github.com/RGenomicsETL/Rfmalloc
 	subdir = packages/Rpgen
+[submodule "Rtskit"]
+	path = Rtskit
+	url = https://github.com/RGenomicsETL/Rtskit
 [submodule "Rzarrs"]
 	path = Rzarrs
 	url = https://github.com/RGenomicsETL/Rzarrs
