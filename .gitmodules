@@ -18,6 +18,7 @@
 [submodule "Rdragmap"]
 	path = Rdragmap
 	url = https://github.com/RGenomicsETL/Rdragmap
+	branch = main
 	subdir = Rdragmap
 [submodule "Rduckhts"]
 	path = Rduckhts
