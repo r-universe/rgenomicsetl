@@ -111,3 +111,7 @@
 	path = rho.testkit
 	url = https://github.com/RGenomicsETL/Rho
 	subdir = packages/rho.testkit
+[submodule "Rdragmap"]
+	path = Rdragmap
+	url = https://github.com/RGenomicsETL/Rdragmap
+	subdir = Rdragmap
