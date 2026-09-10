@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/rgenomicsetl/rgenomicsetl.r-universe.dev
 	branch = HEAD
+[submodule "CanardAbsurd"]
+	path = CanardAbsurd
+	url = https://github.com/RGenomicsETL/CanardAbsurd
 [submodule "RBCFTools"]
 	path = RBCFTools
 	url = https://github.com/RGenomicsETL/RBCFTools
@@ -31,6 +34,10 @@
 	path = Rfmalloc
 	url = https://github.com/RGenomicsETL/Rfmalloc
 	subdir = packages/Rfmalloc
+[submodule "RfmallocStatgen"]
+	path = RfmallocStatgen
+	url = https://github.com/RGenomicsETL/Rfmalloc
+	subdir = packages/RfmallocStatgen
 [submodule "Rggml"]
 	path = Rggml
 	url = https://github.com/RGenomicsETL/Rfmalloc
