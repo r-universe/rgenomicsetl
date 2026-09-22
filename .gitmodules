@@ -30,6 +30,11 @@
 [submodule "Rducks"]
 	path = Rducks
 	url = https://github.com/RGenomicsETL/Rducks
+[submodule "Rducksassy"]
+	path = Rducksassy
+	url = https://github.com/RGenomicsETL/ducksassy
+	branch = main
+	subdir = r/Rducksassy
 [submodule "Rfmalloc"]
 	path = Rfmalloc
 	url = https://github.com/RGenomicsETL/Rfmalloc
