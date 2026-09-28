@@ -36,6 +36,10 @@
 	url = https://github.com/RGenomicsETL/ducksassy
 	branch = main
 	subdir = r/Rducksassy
+[submodule "Rduckvep"]
+	path = Rduckvep
+	url = https://github.com/RGenomicsETL/DuckVEP
+	subdir = r/Rduckvep
 [submodule "Rfmalloc"]
 	path = Rfmalloc
 	url = https://github.com/RGenomicsETL/Rfmalloc
