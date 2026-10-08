@@ -82,6 +82,7 @@
 [submodule "ducksemantics"]
 	path = ducksemantics
 	url = https://github.com/RGenomicsETL/ducksemantics
+	branch = r-package
 [submodule "nanonext"]
 	path = nanonext
 	url = https://github.com/RGenomicsETL/nanonext
